@@ -19,8 +19,10 @@ It uses ** (SBERT)** to encode questions and answers, and stores embeddings in a
 - Python 3.10+
 - Packages listed in `requirements.txt`:
 
-##Train the model first
+## Train the model first
+
 -python train_model.py
 
-##Run the chatbot
+## Run the chatbot
+
 -python chatbot.py
